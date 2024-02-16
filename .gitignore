@@ -1,0 +1,5 @@
+/compiles/*
+# ^ To reduce clutter with compiled binaries.
+# I'll put full binaries in the 'releases' directory
+# monthly, as well as on the GitHub repo's releases
+# page.
