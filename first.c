@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h> // Booleans. True/False stuff.
 
 // Beginner C stuffs
 // Written by Dusk
@@ -94,6 +95,33 @@ int main() {
 							  // equation. very useful.
 
 	printf("%f\n", someFloatSum); // Outputs 2.5, as it should.
+	
+	/*
+	 * I'm not going to do this actively, since frankly
+	 * I feel like it's more situational, I'm making notes on constants.
+	 *
+	 * 'const' makes a variable constant, as in read-only, and can't be changed.
+	 * It also has to be assigned with a value, or else you can't assign one.
+	*/
+
+	/*
+	 * Unrelated, operators: 
+	 * 
+	 * addition (+), subtraction (-),
+	 * multiplication (*), and division (/)
+	 * are all present
+	 *
+	 * Modulus (%) returns a division remainder.
+	 *
+	 * Increment (++) and Decrement (--) increase and decrease
+	 * a value by one respectively
+	 *
+	 * Comparison operators:
+	 *
+	 * equal to (==), not equal (!=), greater than/less than (>/<)m,
+	 * then the equal to's of the before mentioned. (>=/<=)
+	 *
+	*/
 	return 0;
 }
 
