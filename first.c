@@ -122,6 +122,19 @@ int main() {
 	 * then the equal to's of the before mentioned. (>=/<=)
 	 *
 	*/
+
+  // booleans!
+  // can be true or false, 1 or 0, yes or no [...] you see where this is going
+  
+  bool thisIsFunToLearn = true; // if only there was an equivalent to just going 'eh.'
+  bool iLoveTmuxSoMuch = false; // it hurts my hands sometimes
+
+  printf("%d\n", thisIsFunToLearn);
+  printf("%d\n", iLoveTmuxSoMuch);
+
+
+  // conditionals time :]
+
 	return 0;
 }
 
